@@ -11,6 +11,6 @@ Os níveis de teste são etapas no ciclo de desenvolvimento de software, dividid
 
 **Teste de Sistema:** Avalia o comportamento de todo o sistema funcional e não funcionalmente (performance, segurança, usabilidade) como um todo, simulando o ambiente final.
 
-**Teste de Aceitação:** Valida se o sistema atende aos critérios de negócio e requisitos funcionais sob a perspectiva do usuário final (pode incluir testes Alfa e Beta). 
+**Teste de Aceitação:** Valida se o sistema atende aos critérios de negócio e requisitos funcionais sob a perspectiva do usuário final. 
 
 --- 

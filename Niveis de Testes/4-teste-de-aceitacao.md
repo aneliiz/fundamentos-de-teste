@@ -52,7 +52,7 @@ Os critérios são transformados em cenários executáveis.
 
 Muito comum usar o formato BDD (Behavior Driven Development):
 
-Dado / Quando / Então
+> Dado / Quando / Então
 
 ### Exemplo – Fluxo Feliz
 

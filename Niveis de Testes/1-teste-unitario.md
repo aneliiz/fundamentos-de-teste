@@ -2,7 +2,7 @@
 
 Exemplo de função JS:
 ```javascript
-// Função bem simples: soma dois números
+// Função simples: soma dois números
 function somar(a, b) {
 	if (typeof a !== 'number' || typeof b !== 'number') throw new TypeError('a e b devem ser números');
 	return a + b;
@@ -14,7 +14,6 @@ module.exports = { somar };
 Exemplo de teste unitário JS:
 ```javascript
 // Exemplos de testes com Jest para `somar(a,b)`
-// Ajuste o caminho do require conforme sua organização de arquivos
 const { somar } = require('./math');
 
 test('Fluxo feliz: soma dois números positivos', () => {
